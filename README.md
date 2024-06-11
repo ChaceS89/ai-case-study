@@ -7,8 +7,7 @@ Tempus is an innovative company that was established in 2015 by Eric Lefkofsky w
 The company's business model focuses on the utilization of genomic sequencing, precise data, and healthcare data curation and also integrating innovative machine learning algorithms to help oncologists and health care givers (Sasser, 2023). Tempus builds one of the world's largest libraries of clinical and molecular data and allows physicians to introduce info meant to complement the cancer patient's genetic blueprint. This not only increases the accuracy of the treatment process focused on cancer but expands the speed of identifying new treatments based on individual characteristics, placing Tempus at the forefront of developing precision medicine (Alaskar et al., 2022). 
 
 
-* 
-Tempus 
+* Tempus
 
 * 2015 by Eric Lefkofsky
 
@@ -55,3 +54,15 @@ Overall, applying deep learning and predictive analytics in Tempus would mean th
 * 
 
 * Finally, it would ensure Tempus's expansion and development, but it would also serve a higher purpose of enhancing medical science and bettering patient's lives.
+
+
+## References
+* Alaskar, K. M., Tamboli, F. A., Memon, S. A., Gulavani, S. S., Mudalkar, P. K., Desai, V. V., . . . Gaikwad, D. T. (2022). Artificial Intelligence (AI) in healthcare management. Journal of Pharmaceutical Negative Results, 13(10), 1011-1012. DOI: 10.47750/pnr.2022.13.S10.117. 
+* Bekbolatova, M., Mayer, J., Ong, C. W., & Toma, M. (2024). Transformative potential of AI in healthcare: Definitions, applications, and navigating the ethical landscape and public perspectives. Healthcare, 12(2): 125. doi: 10.3390/healthcare12020125.
+* Bilgin, G. B., Bilgin, C., Burkett, B. J., Orme, J. J., Childs, D. S., Thorpe, M. P., . . . Sartor, O. (2024). Theranostics and artificial intelligence: new frontiers in personalized medicine. Theranostics, 14(6):2367-2378. DOI:10.7150/thno.94788.
+* Carron, E. (2024, April 16). Tempus introduces its AI-enabled care pathway intelligence platform, Tempus Next. Market Watch: https://www.marketwatch.com/press-release/tempus-introduces-its-ai-enabled-care-pathway-intelligence-platform-tempus-next-8240ed6f 
+* Fountzilas, E., Tsimberidou, A. M., Vo, H. H., & Kurzrock, R. (2022). Clinical trial design in the era of precision medicine. Genome Medicine, 14(101), 1-11. https://doi.org/10.1186/s13073-022-01102-1. 
+* Johnson, K. B., Wei, W.‐Q., Weeraratne, D., Frisse, M. E., Misulis, K., Rhee, K., . . . Snowdon, J. L. (2021). Precision medicine, AI, and the future of personalized health care. Clinical and Translational Science, 14(1): 86–93. Doi: 10.1111/cts.12884. 
+* Mesko, B. (2017). The role of artificial intelligence in precision medicine. Expert Review of Precision Medicine and Drug Development, 2(5),1-3. DOI:10.1080/23808993.2017.1380516.
+* Sasser, K. (2023, June 13). Using data and AI/ML to achieve precision medicine. Tempus: https://www.tempus.com/resources/content/articles/using-data-and-ai-ml-to-achieve-precision-medicine/ 
+*  Tran, T. Q., Toit, C. D., & Padmanabhan, S. (2021). Artificial Intelligence in healthcare—the road to precision medicine. Journal of Hospital Management and Health Policy, 5(29), 1-9. Doi: 10.21037/jhmhp-20-132.

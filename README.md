@@ -13,7 +13,7 @@
 
 *  Eric Lefkofsky
 
-*  The reason for Tempus's emergence was Lefkofsky, with his own life experience and the death of a close family member due to cancer, which brought the need for precision oncology and the use of the large amounts of data gathered during treatment 
+* { The reason for Tempus's emergence was Lefkofsky, with his own life experience and the death of a close family member due to cancer, which brought the need for precision oncology and the use of the large amounts of data gathered during treatment }
 *  The reason for Tempus's emergence was Lefkofsky, with his own life experience and the death of a close family member due to cancer, which brought the need for precision oncology and the use of the large amounts of data gathered during treatment 
 *  Tempus has attracted quite significant capital: for example, in September 2024, it received $100 million in funding from Revolution Growth, New Enterprise Associates, and T Rowe Price to achieve its large-scale objectives 
 *  Tempus has attracted quite significant capital: for example, in September 2024, it received $100 million in funding from Revolution Growth, New Enterprise Associates, and T Rowe Price to achieve its large-scale objectives 
@@ -65,4 +65,4 @@ Similarly, the application of AI as an aid in the decision-making process of doc
 *  Johnson, K. B., Wei, W.‐Q., Weeraratne, D., Frisse, M. E., Misulis, K., Rhee, K., . . . Snowdon, J. L. (2021). Precision medicine, AI, and the future of personalized health care. Clinical and Translational Science, 14(1): 86–93. Doi: 10.1111/cts.12884. 
 *  Mesko, B. (2017). The role of artificial intelligence in precision medicine. Expert Review of Precision Medicine and Drug Development, 2(5),1-3. DOI:10.1080/23808993.2017.1380516.
 *  Sasser, K. (2023, June 13). Using data and AI/ML to achieve precision medicine. Tempus: https://www.tempus.com/resources/content/articles/using-data-and-ai-ml-to-achieve-precision-medicine/ 
-*     Tran, T. Q., Toit, C. D., & Padmanabhan, S. (2021). Artificial Intelligence in healthcare—the road to precision medicine. Journal of Hospital Management and Health Policy, 5(29), 1-9. Doi: 10.21037/jhmhp-20-132.
+*   Tran, T. Q., Toit, C. D., & Padmanabhan, S. (2021). Artificial Intelligence in healthcare—the road to precision medicine. Journal of Hospital Management and Health Policy, 5(29), 1-9. Doi: 10.21037/jhmhp-20-132.
